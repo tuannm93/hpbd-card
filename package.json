@@ -1,0 +1,12 @@
+{
+  "name": "hpbd-card",
+  "version": "1.0",
+  "description": "HPBD Card",
+  "license": "UNLICENSED",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
